@@ -22,15 +22,15 @@ TO create Number of Files - touch firstfile{1..10}
    
 syntax:- ls
  
-4) vi/vim- Vi and Vim are both command-line text editors for Linux used to edit text-based files, and both allow the creation of files with content or data. The difference is that Vim offers additional features compared to Vi.
+3) vi/vim- Vi and Vim are both command-line text editors for Linux used to edit text-based files, and both allow the creation of files with content or data. The difference is that Vim offers additional features compared to Vi.
    
 And there are 3 modes in write a file in the vim/vi
 
-1) Command mode-Here we cant write anything,to write need press ESC
+1 Command mode-Here we cant write anything,to write need press ESC
    
-2) Insert mode-Here we write the content,then press ESC :
+2 Insert mode-Here we write the content,then press ESC :
  
-3) Execution mode- Here we can save or quit from the file.for save-:wq! and for quite- :q!
+3 Execution mode- Here we can save or quit from the file.for save-:wq! and for quite- :q!
 
 Syntax:- vi/vim filename
 
