@@ -8,10 +8,14 @@ Linux came from a Unix family, Linux is a Open-Source software operating system,
 
 Basic-Commands
 
-1) touch - Touch command is use to create empty files,we can't write data in a file,can't edit or save file 
+1) touch - Touch command is use to create empty files,we can't write data in a file,can't edit or save file.
+
 Syntax:- touch filename
+
 eg)-touch firstfile
+
 To create Multiple Files- touch secondfile thridfile fourthfile
+
 TO create Number of Files - touch firstfile{1..10}
 
 2) ls - It Shows available files and directory list in the present working directory.
