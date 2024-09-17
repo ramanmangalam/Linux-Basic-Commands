@@ -50,7 +50,7 @@ For create directory path (directory inside directory)- mkdir -p/dev/firstdirect
 
 6) man - man command in Linux displays the manual for any command run in the terminal
 
-7) rm - rm command in Linx use to delete a file.
+7) rm - rm command in Linux use to delete a file.
    
 Syntax:- rm firstfile 
 
