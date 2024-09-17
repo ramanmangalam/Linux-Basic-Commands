@@ -54,6 +54,6 @@ For create directory path (directory inside directory)- mkdir -p/dev/firstdirect
    
 Syntax:- rm firstfile 
 
-9) rm-r - rm-r command in Linux use to delete a directory
+8) rm-r - rm-r command in Linux use to delete a directory
     
 Syntax:- rm -r firstdirectory 
