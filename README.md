@@ -48,12 +48,12 @@ To create number of  directory- mkdir /firstdirectory{1..10}
 
 For create directory path (directory inside directory)- mkdir -p/dev/firstdirectory/firstfile
 
-6) man - man command in Linux displays the manual for any command run in the terminal
+5) man - man command in Linux displays the manual for any command run in the terminal
 
-7) rm - rm command in Linux use to delete a file.
+6) rm - rm command in Linux use to delete a file.
    
 Syntax:- rm firstfile 
 
-8) rm-r - rm-r command in Linux use to delete a directory
+7) rm-r - rm-r command in Linux use to delete a directory
     
 Syntax:- rm -r firstdirectory 
